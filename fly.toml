@@ -1,4 +1,4 @@
-app = "dapp-e411"
+app = "ski-token-pass"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
